@@ -24,7 +24,7 @@ This project was created when I was starting to learn React and was mainly focus
 Clone the repository:
 
 ```bash
-git done https://github.com/ali-reza-salari/React-TodoList.git
+git clone https://github.com/ali-reza-salari/React-TodoList.git
 ```
 
 Navigate to the project directory:
