@@ -30,7 +30,7 @@ git clone https://github.com/ali-reza-salari/React-TodoList.git
 Navigate to the project directory:
 
 ```bash
-cd YOUR_REPOSITORY
+cd React-TodoList
 ```
 
 Install the dependencies:
@@ -61,10 +61,7 @@ The main purpose of this project was to practice the fundamentals of React, incl
 
 ## 📸 Preview
 
-_Add a screenshot of the application here._
-
 ![Todo List Preview](./screenshot/project-screenshot.jpg)
-```
 
 ## 📚 Status
 
