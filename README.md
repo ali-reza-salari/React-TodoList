@@ -71,4 +71,4 @@ This project is a learning project and represents one of my early experiences wi
 
 **Ali Reza Salari**
 
-GitHub: [Your GitHub Profile](https://github.com/YOUR_USERNAME)
+GitHub: [My GitHub Profile](https://github.com/ali-reza-salari)
